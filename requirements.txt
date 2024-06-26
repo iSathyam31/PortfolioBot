@@ -1,0 +1,11 @@
+groq
+streamlit
+streamlit_elements
+langchain_community
+langchain
+langchain_groq
+langchain_core
+python-dotenv
+langchain-google-genai
+faiss-cpu
+bs4
